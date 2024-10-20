@@ -15,6 +15,8 @@ Segue abaixo uma explicação da estrutura do código e como rodar em seu comput
 
 - **Função gerarVariosJogadores**  
   Função criada para efetuar testes, ela recebe por parametro a quantidade desejada de jogadores para se criar.
+  
+  Gera randomicamente as vitórias e derrotas de um jogador para ser feito o calculo do ranking do mesmo.
 
 ## 📃 Pré-requisitos Para Rodar o Código
 
